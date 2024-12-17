@@ -7,6 +7,7 @@
 *.dll
 *.so
 *.dylib
+terminal_chess
 
 # Test binary, built with `go test -c`
 *.test
